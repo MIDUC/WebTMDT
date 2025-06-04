@@ -1,0 +1,31 @@
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+    --color-red: #ff0000;
+    --color-yellow: #FFD700;
+    --color-red-pale: #ffdddd;
+    --color-black-medium: #ccc;
+    --color-black-pale: #eee;
+    --color-text-pale: #6c6c6c;
+    --color-base: #cdb56e;
+    --color-base-pale: #6ab7ff;
+    --color-base-super-pale: #d9edff;
+    /* --color-base: #f58ee2; */
+    --color-base-bold: #046bc9;
+    --color-background-white: rgba(255, 255, 255, 0.5);
+    --color-text-pale: #444;
+    --color-background: #f3f5f7;
+
+
+    --font-size-base: 1.4rem;
+    --font-size-big: 1.6rem;
+    --font-size-small: 1.2rem;
+
+    --header-height: 72px;
+}
+
+@import './variables';
+@import './fonts';
+@import "style";
+
+
